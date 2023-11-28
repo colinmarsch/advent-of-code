@@ -7,7 +7,7 @@ fun main() {
         return 0
     }
 
-    val input = readInput("twentytwentythree/day2", "Day02_input")
+    val input = readInput("twentytwentythree/day02", "Day02_input")
     println(part1(input))
     println(part2(input))
 }
