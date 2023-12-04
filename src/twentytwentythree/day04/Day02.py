@@ -1,4 +1,4 @@
 lines = []
-with open("Day02_input.txt") as file:
+with open("Day04_input.txt") as file:
     for line in file:
         lines.append(line.rstrip())
